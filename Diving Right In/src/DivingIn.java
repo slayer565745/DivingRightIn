@@ -10,6 +10,9 @@ public class DivingIn
 
 		public static void questions()
 			{
+				
+				System.out.println("SUCKIT COLLIN!");
+				
 				Scanner nam = new Scanner(System.in);
 				int check=0;
 				for(int random=0;check<1; check++)
